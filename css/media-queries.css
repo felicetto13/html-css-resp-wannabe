@@ -1,0 +1,27 @@
+@media screen and (max-width:768px) {
+
+    html {
+        font-size: .9rem
+    }
+    img {
+        max-width: 80%;
+    }
+
+    /************************************************
+        UTILITIES
+    ************************************************/
+
+    /* LAYOUT */
+
+    .container {
+        width: 100%;
+    }
+    .col {
+        padding-left: .75rem;
+        padding-right: .75rem;
+    }
+
+}
+
+
+
